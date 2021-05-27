@@ -36,3 +36,7 @@ Node.js package to access OPC Da 2.0 for reading and writing,Both X86/X64 suppor
 * change current node.js version to 6.0.0(use nvm)
 * >cd node-opcda
 * >node index.js
+## Ohter version
+If you use node.js at least 7.0.0+
+
+use should recompile the cpp part 
