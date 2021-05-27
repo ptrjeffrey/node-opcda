@@ -31,3 +31,8 @@ Node.js package to access OPC Da 2.0 for reading and writing,Both X86/X64 suppor
 	* I advice you to use `hostname` instead of `IP address` for reasons below.
 		* If you want to access OPC by IP, you have to enable RemoteRegistry service in `services.msc`
 		* Also , for UAC problem after Vista, your program must run as admin to avoid some issue.
+
+## How to use
+* change current node.js version to 6.0.0(use nvm)
+* >cd node-opcda
+* >node index.js
